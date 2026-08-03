@@ -1,7 +1,7 @@
 # Automated Few-Shot Tabular Learning Framework via LLM-Based Semantic Feature Engineering
 
 <p align="center">
-  <img src="architecture.png" alt="Model Architecture" width="800" />
+  <img width="349" height="218" alt="image03" src="https://github.com/user-attachments/assets/60617821-dfbc-4e2a-8329-b6ccc6537a53" />
 </p>
 
 This repository contains the official implementation of the paper: **[Automated Few-Shot Tabular Learning Framework via LLM-Based Semantic Feature Engineering](#)**.
