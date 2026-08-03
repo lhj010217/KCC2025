@@ -1,11 +1,12 @@
 # Automated Few-Shot Tabular Learning Framework via LLM-Based Semantic Feature Engineering
 
 <p align="center">
-  <img width="349" height="218" alt="image03" src="https://github.com/user-attachments/assets/60617821-dfbc-4e2a-8329-b6ccc6537a53" />
+<img width="2934" height="1380" alt="Component 5 (2)" src="https://github.com/user-attachments/assets/22fd0c50-cae2-4648-8185-893e74c8a359" />
+
 </p>
 
 This repository contains the official implementation of the paper: **[Automated Few-Shot Tabular Learning Framework via LLM-Based Semantic Feature Engineering](#)**.
-
+https://github.com/lhj010217/KCC2025/blob/main/README.md
 Our framework leverages Large Language Models (LLMs) and attention mechanisms to automate semantic feature engineering for tabular data, specifically designed for few-shot learning environments where labeled data is extremely scarce. It combines LLM-generated features with a neural network-based feature-bagging ensemble to achieve superior performance over traditional AutoML solutions.
 
 ## Prerequisites
